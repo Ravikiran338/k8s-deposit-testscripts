@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page-elements>
+
+  <page-element no="1">
+    <type></type>
+    <id></id>
+    <name></name>
+    <className></className>
+    <cssSelector></cssSelector>
+    <xPath>.//input[@name='username']</xPath>
+    <linkText></linkText>
+    <data>anilkumar</data>
+  </page-element>
+  
+  <page-element no="2">
+    <type></type>
+    <id></id>
+    <name></name>
+    <className></className>
+    <cssSelector></cssSelector>
+    <xPath>.//input[@name='password']</xPath>
+    <linkText></linkText>
+    <data>123456789</data>
+  </page-element>
+  
+  <page-element no="3">
+    <type></type>
+    <id></id>
+    <name></name>
+    <className></className>
+    <cssSelector></cssSelector>
+    <xPath>//button[@class='btn btn-primary']</xPath>
+    <linkText></linkText>
+    <data></data>
+  </page-element>
+  
+  
+  <!--  Login Menu Item -->
+  <page-element no="4">
+    <type></type>
+    <id></id>
+    <name></name>
+    <className></className>
+    <cssSelector>.navbar-default .navbar-nav > li > a</cssSelector>
+    <xPath></xPath>
+    <linkText></linkText>
+    <data></data>
+  </page-element>
+  
+  <!-- Logout button -->
+  <page-element no="5">
+    <type></type>
+    <id></id>
+    <name></name>
+    <className></className>
+    <cssSelector></cssSelector>
+    <xPath>/html/body/app-root/nav/div/ul[2]/li[2]/button</xPath>
+    <linkText></linkText>
+    <data></data>
+  </page-element>
+  
+  
+  
+  <page-element no="6">
+    <type></type>
+    <id></id>
+    <name></name>
+    <className></className>
+    <cssSelector></cssSelector>
+    <xPath></xPath>
+    <linkText></linkText>
+    <data></data>
+  </page-element>
+  
+  
+  
+  
+</page-elements>

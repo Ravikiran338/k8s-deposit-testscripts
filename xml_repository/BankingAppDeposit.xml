@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page-elements>
+
+<!-- Customer Menu Item -->
+  <page-element no="1">
+    <type></type>
+    <id></id>
+    <name></name>
+    <className></className>
+    <cssSelector></cssSelector>
+    <xPath></xPath>
+    <linkText>Deposit</linkText>
+    <data></data>
+  </page-element>
+  
+    
+  <!--  Deposit  Account Number -->
+  <page-element no="2">
+    <type>input</type>
+    <id></id>
+    <name></name>
+    <className></className>
+    <cssSelector></cssSelector>
+    <xPath>.//*[@name='accountNum']</xPath>
+    <linkText></linkText>
+    <data></data>
+  </page-element>
+  
+  
+    <!--  Deposit  Balance -->
+  <page-element no="3">
+    <type>input</type>
+    <id></id>
+    <name></name>
+    <className></className>
+    <cssSelector></cssSelector>
+    <xPath>.//*[@name='balance']</xPath>
+    <linkText></linkText>
+    <data></data>
+  </page-element>
+  
+    
+  <!-- Deposit Search Button -->
+  <page-element no="4">
+    <type>button</type>
+    <id></id>
+    <name></name>
+    <className></className>
+    <cssSelector></cssSelector>
+    <xPath>/html/body/app-root/div/app-deposit/div/div/div/div/div/form/button</xPath>
+    <linkText>Search</linkText>
+    <data></data>
+  </page-element>
+  
+       
+</page-elements>
